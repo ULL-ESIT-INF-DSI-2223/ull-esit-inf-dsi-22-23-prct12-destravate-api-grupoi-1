@@ -15,15 +15,15 @@
 
 ![Ej POST DB](Assets/Img/rutaPostDB.png)
 
-## Operación GET
+### Operación GET
 
 ![Ej GET](Assets/Img/rutaGet.png)
 
-## Operación DELETE
+### Operación DELETE
 
 ![Ej DELETE](Assets/Img/rutaDelete.png)
 
-## Operación PATCH
+### Operación PATCH
 
 ![Ej PATCH](Assets/Img/rutaPatch.png)
 
